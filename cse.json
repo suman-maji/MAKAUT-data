@@ -1,99 +1,51 @@
 {
   "sem1": [
     {
-      "subject": "Physics-I",
-      "code": "BS-PH101",
+      "subject": "Physics-I (BS-PH101)",
       "pyqLink": [
-        {
-          "2020": "https://drive.google.com/file/d/1QhDwxfF0JGAktDFKZtnKytZue0IyUwJh/view?usp=drive_link"
-        },
-        {
-          "2019": "https://drive.google.com/file/d/1evdfvKRd3z1gLDgTBbx9i8xeKvt4I2ao/view?usp=drive_link"
-        },
-        {
-          "2018": "https://drive.google.com/file/d/1XfPmAfyHXpHNFbMxwRr4fTTkjJGKl-tf/view?usp=drive_link"
-        },
-        {
-          "2017": "https://drive.google.com/file/d/1DCrAL18nO4AN0s6a-RV9nReDpYMf9lyS/view?usp=drive_link"
-        },
-        {
-          "2016": "https://drive.google.com/file/d/1Mjo5dqKo1JDwLG3371lDn_EZNPvNwC40/view?usp=drive_link"
-        },
-        {
-          "2015": "https://drive.google.com/file/d/1fI6jrQoNH9F8fqVQM1hFY0njMbeQ7ehD/view?usp=drive_link"
-        },
-        {
-          "2014": "https://drive.google.com/file/d/17k9sEzuM8MBWHPfoCqM0kbOMeOIeoBIC/view?usp=drive_link"
-        },
-        {
-          "2013": "https://drive.google.com/file/d/1rIuyyJRCL0SnZ6N-UslHYyKTT2tOlvYW/view?usp=drive_link"
-        }
+        { "2020": "https://drive.google.com/file/d/1QhDwxfF0JGAktDFKZtnKytZue0IyUwJh/view?usp=drive_link" },
+        { "2019": "https://drive.google.com/file/d/1evdfvKRd3z1gLDgTBbx9i8xeKvt4I2ao/view?usp=drive_link" },
+        { "2018": "https://drive.google.com/file/d/1XfPmAfyHXpHNFbMxwRr4fTTkjJGKl-tf/view?usp=drive_link" },
+        { "2017": "https://drive.google.com/file/d/1DCrAL18nO4AN0s6a-RV9nReDpYMf9lyS/view?usp=drive_link" },
+        { "2016": "https://drive.google.com/file/d/1Mjo5dqKo1JDwLG3371lDn_EZNPvNwC40/view?usp=drive_link" },
+        { "2015": "https://drive.google.com/file/d/1fI6jrQoNH9F8fqVQM1hFY0njMbeQ7ehD/view?usp=drive_link" },
+        { "2014": "https://drive.google.com/file/d/17k9sEzuM8MBWHPfoCqM0kbOMeOIeoBIC/view?usp=drive_link" },
+        { "2013": "https://drive.google.com/file/d/1rIuyyJRCL0SnZ6N-UslHYyKTT2tOlvYW/view?usp=drive_link" }
       ],
       "organiser": "https://drive.google.com/file/d/1O5BPUMhHdxJJ5htlk6eKVk6sRaEamNkf/view?usp=drivesdk",
       "playlist": "https://youtube.com/playlist?list=PLIYbzzS1gRrLArD-lC-DhQAtm1_XKEqhd&si=ZBocQNdFl7PuHyhn"
     },
     {
-      "subject": "Basic Electrical Engineering ",
-      "code": "ES-EE101 ",
+      "subject": "Basic Electrical Engineering (ES-EE101)",
       "pyqLink": [
-        {
-          "2019": "https://drive.google.com/file/d/1yq47Bw4aRyyzpSibNbyoIksL3pGmPxXg/view?usp=drive_link"
-        },
-        {
-          "2018": "https://drive.google.com/file/d/1qlgsQSK-JH7iaUYM1Op5oUjz-ZL-73c3/view?usp=drive_link"
-        },
-        {
-          "2017": "https://drive.google.com/file/d/1PLEP253-zERyIT6WzjQH8R0nSwA3Tyg5/view?usp=drive_link"
-        },
-        {
-          "2016": "https://drive.google.com/file/d/1E-Qvi47SJ88ZF-z5uODQLNGiNTjrA4H8/view?usp=drive_link"
-        },
-        {
-          "2015": "https://drive.google.com/file/d/15jsZ6mXOedcH9C3vCqJSr0Bpe2isykIp/view?usp=drive_link"
-        },
-        {
-          "2014": "https://drive.google.com/file/d/16y_9YYKkjNiKCSd8StCideVbBHJBgQoF/view?usp=drive_link"
-        },
-        {
-          "2013": "https://drive.google.com/file/d/1UGZ3TtTCvxnkPiL9EdSXPX9ob0xecPNi/view?usp=drive_link"
-        }
+        { "2019": "https://drive.google.com/file/d/1yq47Bw4aRyyzpSibNbyoIksL3pGmPxXg/view?usp=drive_link" },
+        { "2018": "https://drive.google.com/file/d/1qlgsQSK-JH7iaUYM1Op5oUjz-ZL-73c3/view?usp=drive_link" },
+        { "2017": "https://drive.google.com/file/d/1PLEP253-zERyIT6WzjQH8R0nSwA3Tyg5/view?usp=drive_link" },
+        { "2016": "https://drive.google.com/file/d/1E-Qvi47SJ88ZF-z5uODQLNGiNTjrA4H8/view?usp=drive_link" },
+        { "2015": "https://drive.google.com/file/d/15jsZ6mXOedcH9C3vCqJSr0Bpe2isykIp/view?usp=drive_link" },
+        { "2014": "https://drive.google.com/file/d/16y_9YYKkjNiKCSd8StCideVbBHJBgQoF/view?usp=drive_link" },
+        { "2013": "https://drive.google.com/file/d/1UGZ3TtTCvxnkPiL9EdSXPX9ob0xecPNi/view?usp=drive_link" }
       ],
       "organiser": "https://drive.google.com/file/d/1E5GoXYaO7Ui3slAhxIbKj0tar8isriYg/view?usp=drivesdk",
       "playlist": "https://youtube.com/playlist?list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc&si=v99ISydyvNYJKXNF"
     },
     {
-      "subject": "Mathematics –IA",
-      "code": "BS-M101",
+      "subject": "Mathematics –IA (BS-M101)",
       "pyqLink": [
-        {
-          "2023": "https://drive.google.com/file/d/1GBNRnj7jsE_rvz4-M9FMxagpWI_5Jdk3/view?usp=drive_link"
-        },
-        {
-          "2020": "https://drive.google.com/file/d/1OIatsewoYCP1SnNmP-2s9GZmMs0RlZNT/view?usp=drive_link"
-        },
-        {
-          "2019": "https://drive.google.com/file/d/1rBh5RY0e3ss-39fS_WfrHYcKhqvtXreI/view?usp=drive_link"
-        },
-        {
-          "2018": "https://drive.google.com/file/d/17Il6cWjgSf0UxhBM5r29sXTT2jPrViE6/view?usp=drive_link"
-        },
-        {
-          "2017": "https://drive.google.com/file/d/1zJehkz9mV5B5WiQuuD8oAm5i0jV4EH2R/view?usp=drive_link"
-        },
-        {
-          "2016": "https://drive.google.com/file/d/1qCp3DUvEjw7l-RK1g6t2WxsEVgzy9m59/view?usp=drive_link"
-        },
-        {
-          "2015": "https://drive.google.com/file/d/1Y40JEIB_gmgJnhuXQHNTtnW_0V14TsM5/view?usp=drive_link"
-        },
-        {
-          "2014": "https://drive.google.com/file/d/1oPfhIa7p9iiA5kyIMyMU-FdPRwGuA3dH/view?usp=drive_link"
-        }
+        { "2023": "https://drive.google.com/file/d/1GBNRnj7jsE_rvz4-M9FMxagpWI_5Jdk3/view?usp=drive_link" },
+        { "2020": "https://drive.google.com/file/d/1OIatsewoYCP1SnNmP-2s9GZmMs0RlZNT/view?usp=drive_link" },
+        { "2019": "https://drive.google.com/file/d/1rBh5RY0e3ss-39fS_WfrHYcKhqvtXreI/view?usp=drive_link" },
+        { "2018": "https://drive.google.com/file/d/17Il6cWjgSf0UxhBM5r29sXTT2jPrViE6/view?usp=drive_link" },
+        { "2017": "https://drive.google.com/file/d/1zJehkz9mV5B5WiQuuD8oAm5i0jV4EH2R/view?usp=drive_link" },
+        { "2016": "https://drive.google.com/file/d/1qCp3DUvEjw7l-RK1g6t2WxsEVgzy9m59/view?usp=drive_link" },
+        { "2015": "https://drive.google.com/file/d/1Y40JEIB_gmgJnhuXQHNTtnW_0V14TsM5/view?usp=drive_link" },
+        { "2014": "https://drive.google.com/file/d/1oPfhIa7p9iiA5kyIMyMU-FdPRwGuA3dH/view?usp=drive_link" }
       ],
       "organiser": "https://drive.google.com/file/d/1P3oSljQ2saHe0v6yQQ1ggdwfjD7W4q2P/view?usp=drivesdk",
       "playlist": "https://youtube.com/playlist?list=PLiSPNzs4fD9vGQD-aUVKpDuzsRaXekgjj&si=gKDceLAzw-ZeWAj5"
     }
-  ],
+  ]
+}
 
   "sem2": [
     {
