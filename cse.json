@@ -35,9 +35,11 @@
       "playlist": "https://youtube.com/playlist?list=PLIYbzzS1gRrLArD-lC-DhQAtm1_XKEqhd&si=ZBocQNdFl7PuHyhn"
     },
     {
-      "subject": "Basic Electrical Engineering ",
-      "code": "ES-EE101 ",
+      "subject": "Basic Electrical Engineering (ES-EE101) ",
       "pyqLink": [
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/693/5/ES-EE101%2c%202024-25.pdf"
+        },
         {
           "2019": "https://drive.google.com/file/d/1yq47Bw4aRyyzpSibNbyoIksL3pGmPxXg/view?usp=drive_link"
         },
