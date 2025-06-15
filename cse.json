@@ -112,11 +112,16 @@
 
   "sem2": [
     {
-      "subject": "Programming for Problem Solving",
-      "code": "ES-CS291",
+      "subject": "Programming for Problem Solving (ES-CS201)",
       "pyqLink": [
         {
-          "2023": "https://drive.google.com/file/d/1MmKi_CFYaoVfOvq-jdwustTTgDz1le63/view?usp=drive_link"
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/633/5/ES-CS201%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/577/4/BSPH101%2c2022-23.pdf"
         },
         {
           "2017": "https://drive.google.com/file/d/13dPpQIvQqiOZqFzM3dJOJ-iHK-9G0bla/view?usp=drive_link"
@@ -132,11 +137,16 @@
       "playlist": "https://youtu.be/irqbmMNs2Bo?si=09cK76NlncLLjXwL"
     },
     {
-      "subject": "English",
-      "code": "HM-HU201 ",
+      "subject": "English (HM-HU201)",
       "pyqLink": [
         {
-          "2023": "https://drive.google.com/file/d/1jkAr3aEIy-T7XC5e21DIBybgrU9324gy/view?usp=drive_link"
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/633/6/HM-HU201%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/577/4/BSPH101%2c2022-23.pdf"
         },
         {
           "2015": "https://drive.google.com/file/d/1gm97595rYBvFqZxDOxgLl91OtJDReFpT/view?usp=drive_link"
@@ -152,12 +162,17 @@
       "playlist": "https://youtube.com/playlist?list=PLM9E7EXMIP3hYRbOXJD0CZbtyiqS5JPp3&si=sWkVWLwldA5PaC7R"
     },
     {
-      "subject": "Chemistry-I",
-      "code": "BS-CH201",
+      "subject": "Chemistry-I (BS-CH201)",
       "pyqLink": [
         {
-          "2023": "https://drive.google.com/file/d/1XyDfT9wV60yVynX9hUaT5H5u2lMj090-/view?usp=drive_link"
-        }
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/633/1/BS-CH201%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/577/4/BSPH101%2c2022-23.pdf"
+        },
       ],
       "organiser": "https://drive.google.com/file/d/10lh388vy_96cbFboFAH9WRNCh_w2KZ7R/view?usp=drivesdk",
       "playlist": "https://youtube.com/playlist?list=PLW1Y7Rfg4m8Jhs-s_VfYWgWzwTqYUvxJb&si=OwwkGZL4LueziXZx"
