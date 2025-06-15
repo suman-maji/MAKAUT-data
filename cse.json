@@ -2,8 +2,10 @@
   "sem1": [
     {
       "subject": "Physics-I (BS-PH101)",
-      "code": "BS-PH101",
       "pyqLink": [
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/693/4/BSPH101%2c%202024-25.pdf"
+        },
         {
           "2020": "https://drive.google.com/file/d/1QhDwxfF0JGAktDFKZtnKytZue0IyUwJh/view?usp=drive_link"
         },
