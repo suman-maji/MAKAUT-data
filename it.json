@@ -376,34 +376,62 @@
 
   "sem7": [
     {
-      "subject": "Cyber security",
-      "code": "PCC-CS 601",
-      "pyqLink": [],
+      "subject": "Cyber security (PEC-CS702E)",
+      "pyqLink": [        
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/6/PEC-IT702F%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/4/PEC-CS702E%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/3/PEC-CS702E%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1A983f72tyAF-9htfX6hvXPlOaHolNGJ-/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Multimedia Organizer",
-      "code": "PCC-CS 602",
-      "pyqLink": [],
+      "subject": "Multimedia Organizer (PEC-IT702A)",
+      "pyqLink": [        
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/5/PEC-IT702A%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1HrVPGLF0-pGMy7bFWjMbtZlkCGcRhaNe/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Cloud Computing ",
-      "code": "PECIT601A/B/C/D",
-      "pyqLink": [],
+      "subject": "Cloud Computing (PEC-IT701C)",
+      "pyqLink": [
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/4/PEC-IT701C%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/3/PEC-CS701B%2c%202023-24.pdf"
+        },
+      ],
       "organiser": "https://drive.google.com/file/d/1NLDYzvzd5Pmfo0nXVq7XPyOwrljlTp4a/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Project Management",
-      "code": "PECIT602A/B/C/D",
-      "pyqLink": [],
+      "subject": "Project Management and Entrepreneurship (HSMC 701)",
+      "pyqLink": [        
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/1/HSMC701%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/1/HSMC%20701%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/1/HSMC701%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1tQ3I17lW1RiVwBXQR_1z0Tco9zlcFOI1/view?usp=drivesdk",
       "playlist": "url"
     }
   ],
+  
   "sem8": [
     {
       "subject": "E-commerce _ ERP",
