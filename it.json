@@ -456,31 +456,51 @@
   
   "sem8": [
     {
-      "subject": "E-commerce _ ERP",
-      "code": "",
-      "pyqLink": [],
+      "subject": " E-Commerce and ERP (OEC-IT802A)",
+      "pyqLink": [
+        {
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/648/2/OEC-IT802A%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/603/2/OEC-IT802A%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1cNElW6Ruu6vqkDSTRaJCXZgoJCY_19Uy/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Cyber Law and Ethics ",
-      "code": "",
-      "pyqLink": [],
+      "subject": "Cyber Law and Ethics (OECIT801B)",
+      "pyqLink": [
+        {
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/648/1/OEC-IT801B%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/603/1/OEC-%20IT801B%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1T2z7O-Q50PZC-eW-lJndIgcRPv1I6bVr/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Web and Internet Technology",
-      "code": "",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1qgcWbtD85fbuToAIGWWEYydmIO8DwyOV/view?usp=drivesdk",
-      "playlist": "url"
-    },
-    {
-      "subject": "E-Commerce",
-      "code": "",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/10PbfU15gKsdTZmZ7NEV-b2fHePJbNfDz/view?usp=drivesdk",
+      "subject": "Cryptography & Network Security (PECIT801B)",
+      "pyqLink": [
+        {
+          "2024": ""
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/648/1/OEC-IT801B%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/603/3/PEC-IT801B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "url",
       "playlist": "url"
     }
   ]
