@@ -392,10 +392,16 @@
       "playlist": "url"
     },
     {
-      "subject": "Multimedia Organizer (PEC-IT702A)",
-      "pyqLink": [        
+      "subject": " Internet Technology (PEC-IT701A)",
+      "pyqLink": [
         {
-          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/5/PEC-IT702A%2c2022-23.pdf"
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/3/PEC-IT701A%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/5/PEC-IT701A%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/4/PEC-IT701A%2c2022-23.pdf"
         }
       ],
       "organiser": "https://drive.google.com/file/d/1HrVPGLF0-pGMy7bFWjMbtZlkCGcRhaNe/view?usp=drivesdk",
@@ -414,6 +420,32 @@
       "organiser": "https://drive.google.com/file/d/1NLDYzvzd5Pmfo0nXVq7XPyOwrljlTp4a/view?usp=drivesdk",
       "playlist": "url"
     },
+    {
+      "subject": "Multimedia Organizer (PEC-IT702A)",
+      "pyqLink": [        
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/5/PEC-IT702A%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1HrVPGLF0-pGMy7bFWjMbtZlkCGcRhaNe/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": " Soft Skill & Interpersonal Communication (OEC-IT701C)",
+      "pyqLink": [        
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/2/OECIT701C%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/2/OEC-IT701C%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/2/OEC-IT701C%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1tQ3I17lW1RiVwBXQR_1z0Tco9zlcFOI1/view?usp=drivesdk",
+      "playlist": "url"
+    }
     {
       "subject": "Project Management and Entrepreneurship (HSMC 701)",
       "pyqLink": [        
