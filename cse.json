@@ -224,44 +224,98 @@
 
   "sem4": [
     {
-      "subject": "Discrete Mathematics",
-      "code": "PC-CCS 401",
-      "pyqLink": [],
+      "subject": "Discrete Mathematics (PC-CCS401)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/3/PCC-CS401%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/3/PCC%e2%80%90CS401%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1R9NN7zjC5j0KJU-9T9xYKdys1SD258rn/view?usp=drivesdk",
       "playlist": "https://youtu.be/wGLTV8MgLlA?si=LMuFfZwEtyyb2LvV"
     },
     {
-      "subject": "Computer Architecture",
-      "code": "PCC-CS 402",
-      "pyqLink": [],
+      "subject": "Computer Architecture (PCC-CS402)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/4/PCC-CS402%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/4/PCC-CS402%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1OimzNeXdR5OgLTcEkoE-iLvLfXTS7mQ5/view?usp=drivesdk",
       "playlist": "https://youtu.be/Ol8D69VKX2k?si=KzuPD_Ji6ux1K0PM"
     },
     {
-      "subject": "Formal Language & Automata Theory",
-      "code": "PCC-CS 403",
-      "pyqLink": [],
+      "subject": "Formal Language & Automata Theory (PCC-CS403)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/5/PCC-CS403%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/5/PCC-CS403%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1GYRBJaI-Ch6YbNYODVUoOZvLNy0Nsn8w/view?usp=drivesdk",
       "playlist": "https://youtu.be/58N2N7zJGrQ?si=EkYRWrSHPLqs5Yzd"
     },
     {
-      "subject": "Design & Analysis of Algorithms",
-      "code": "PCC-CS 404",
-      "pyqLink": [],
+      "subject": "Design & Analysis of Algorithms (PCC-CS404)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/6/PCC-CS404%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/6/PCC-CS404%2c2022-23.pdf"
+        }
+      ],
       "organiser": "url",
       "playlist": "https://youtu.be/0IAPZzGSbME?si=G7fDH-bK5sf0uP2o"
     },
     {
-      "subject": "Biology",
-      "code": "BSC 401",
-      "pyqLink": [],
+      "subject": "Biology (BSC-401)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/1/BSC-401%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/1/BSC-401%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/11P8zDPYyuGY_D-JRj0FQ2Efpv0HQ-6PB/view?usp=drivesdk",
       "playlist": "https://youtu.be/1eYAmtJmA-U?si=vXsCRL2XVS9djFfK"
     },
     {
-      "subject": "Environmental Sciences",
-      "code": "MC401",
-      "pyqLink": [],
+      "subject": "Environmental Sciences (MC401)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/646/2/MC-401%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/601/2/MC-401%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/194CfKP4v1C3z9Q4-nn08aC4J4w_1sQE8/view?usp=drivesdk",
       "playlist": "https://youtu.be/MtpxOdtS9KU?si=jg5EcxdRDg93dOQv"
     }
