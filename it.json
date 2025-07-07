@@ -328,12 +328,18 @@
 
   "sem6": [
     {
-      "subject": "Database Management Systems",
-      "code": "PCC-CS 601",
+      "subject": "Database Management Systems (PCC-CS601)",
       "pyqLink": [
         {
-          "2016": "https://drive.google.com/file/d/1_lvFhXHOdyr-U-cKYafyLokkw_wWnkJC/view?usp=drive_link",
-          "2015": "https://drive.google.com/file/d/1_jECcPUAk8bloZtaftZasubZ1cr6ixhH/view?usp=drive_link"
+          "2025": ""
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/3/PCC-CS601%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/3/PCC-CS601%2c2022-23.pdf"
+        },
+        {
+          "2018": "http://117.232.85.73:8080/jspui/bitstream/123456789/466/2/IT-601%2c%2017-18.pdf"
         }
       ],
       "organiser": "https://drive.google.com/file/d/1nJGgJL7XGy6xg8eZGe23SKmo41zuWi0Q/view?usp=drivesdk",
