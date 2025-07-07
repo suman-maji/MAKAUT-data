@@ -376,22 +376,6 @@
 
   "sem7": [
     {
-      "subject": "Cyber security (PEC-IT702F)",
-      "pyqLink": [        
-        {
-          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/6/PEC-IT702F%2c%202024-25.pdf"
-        },
-        {
-          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/4/PEC-CS702E%2c%202023-24.pdf"
-        },
-        {
-          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/3/PEC-CS702E%2c2022-23.pdf"
-        }
-      ],
-      "organiser": "https://drive.google.com/file/d/1A983f72tyAF-9htfX6hvXPlOaHolNGJ-/view?usp=drivesdk",
-      "playlist": "url"
-    },
-    {
       "subject": " Internet Technology (PEC-IT701A)",
       "pyqLink": [
         {
@@ -418,6 +402,22 @@
         }
       ],
       "organiser": "https://drive.google.com/file/d/1NLDYzvzd5Pmfo0nXVq7XPyOwrljlTp4a/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Cyber security (PEC-IT702F)",
+      "pyqLink": [        
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/711/6/PEC-IT702F%2c%202024-25.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/613/4/PEC-CS702E%2c%202023-24.pdf"
+        },
+        {
+          "2022": "http://117.232.85.73:8080/jspui/bitstream/123456789/551/3/PEC-CS702E%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1A983f72tyAF-9htfX6hvXPlOaHolNGJ-/view?usp=drivesdk",
       "playlist": "url"
     },
     {
