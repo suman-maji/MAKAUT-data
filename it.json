@@ -404,6 +404,22 @@
       "playlist": "url"
     },
     {
+      "subject": "Numerical Methods (OEC-IT601A)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/1/OEC-IT601A%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/1/OEC-IT601A%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1id3p0XXh58k59NxoGuXywDbmlQMJ7R1P/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
       "subject": "Image Processing",
       "code": "PECIT601A/B/C/D",
       "pyqLink": [],
@@ -415,13 +431,6 @@
       "code": "PECIT602A/B/C/D",
       "pyqLink": [],
       "organiser": "https://drive.google.com/file/d/1_WIMPbBLuSAMO6jHb1s6LLboaR6pN12j/view?usp=drivesdk",
-      "playlist": "url"
-    },
-    {
-      "subject": "NM",
-      "code": "OECIT601A/B",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1id3p0XXh58k59NxoGuXywDbmlQMJ7R1P/view?usp=drivesdk",
       "playlist": "url"
     }
   ],
