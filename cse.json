@@ -422,48 +422,111 @@
 
   "sem6": [
     {
-      "subject": "Database Management Systems",
-      "code": "PCC-CS 601",
+      "subject": "Database Management Systems (PCC-CS601)",
       "pyqLink": [
         {
-          "2016": "https://drive.google.com/file/d/1_lvFhXHOdyr-U-cKYafyLokkw_wWnkJC/view?usp=drive_link",
-          "2015": "https://drive.google.com/file/d/1_jECcPUAk8bloZtaftZasubZ1cr6ixhH/view?usp=drive_link"
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/3/PCC-CS601%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/3/PCC-CS601%2c2022-23.pdf"
+        },
+        {
+          "2019": "http://117.232.85.73:8080/jspui/bitstream/123456789/504/1/IT-601%2c18-19.pdf"
+        },
+        {
+          "2018": "http://117.232.85.73:8080/jspui/bitstream/123456789/466/2/IT-601%2c%2017-18.pdf"
         }
       ],
       "organiser": "https://drive.google.com/file/d/1nJGgJL7XGy6xg8eZGe23SKmo41zuWi0Q/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Computer Networks",
-      "code": "PCC-CS 602",
+      "subject": "Computer Networks (PCC-CS602)",
       "pyqLink": [
         {
-          "2016": "https://drive.google.com/file/d/17mJKM-pjzYq99lopgoSnUmAUEDTBW5mD/view?usp=drive_link",
-          "2015": "https://drive.google.com/file/d/1olp2KUdudOmo2ufT3k8vhLN5_0xSlnb6/view?usp=drive_link"
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/3/PCC-CS601%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/3/PCC-CS601%2c2022-23.pdf"
+        },
+        {
+          "2019": "http://117.232.85.73:8080/jspui/bitstream/123456789/504/2/IT-602%2c18-19.pdf"
+        },
+        {
+          "2018": "http://117.232.85.73:8080/jspui/bitstream/123456789/466/3/IT-602%2c%2017-18.pdf"
         }
       ],
       "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Image Processing",
-      "code": "PECIT601A/B/C/D",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1tNs8NvcxsOIo2PVmcAKTuB81F2UxQz3t/view?usp=drivesdk",
+      "subject": "Distributed Systems (PEC-IT601B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/5/PEC-IT601B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/5/PEC-IT601B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Pattern Recognization",
-      "code": "PECIT602A/B/C/D",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1_WIMPbBLuSAMO6jHb1s6LLboaR6pN12j/view?usp=drivesdk",
+      "subject": "Data Warehousing & Data Mining (PEC-IT602B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/8/PEC-IT602B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/6/PEC-IT602B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "NM",
-      "code": "OECIT601A/B",
-      "pyqLink": [],
+      "subject": "Numerical Methods (OEC-IT601A)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/1/OEC-IT601A%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/1/OEC-IT601A%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1id3p0XXh58k59NxoGuXywDbmlQMJ7R1P/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Human Resource Development and Oranizational Behavior (OEC-IT601B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/2/OEC-IT601B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/2/OEC-IT601B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1tNs8NvcxsOIo2PVmcAKTuB81F2UxQz3t/view?usp=drivesdk",
       "playlist": "url"
     }
   ],
