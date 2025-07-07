@@ -372,6 +372,38 @@
       "playlist": "url"
     },
     {
+      "subject": "Distributed Systems (PEC-IT601B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/5/PEC-IT601B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/5/PEC-IT601B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Data Warehousing & Data Mining (PEC-IT602B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/8/PEC-IT602B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/6/PEC-IT602B%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
       "subject": "Image Processing",
       "code": "PECIT601A/B/C/D",
       "pyqLink": [],
