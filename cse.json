@@ -269,58 +269,98 @@
 
   "sem5": [
     {
-      "subject": "Software Engineering",
-      "code": "ESC501",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1WzU9CZYkZ7Y_zF4s5ZFLd-GZtrRAHqL_/view?usp=sharing",
-      "playlist": "https://youtu.be/NlLM3sVF8wY?si=EvCjCyNTVeYM6EF_"
-    },
-    {
-      "subject": "Compiler Design",
-      "code": "PCC-CS 501",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1W_TASmEffC9g_oxC4PF_W6MRpGyq5Jpb/view?usp=sharing",
-      "playlist": "https://youtu.be/Cb46_P12bMY?si=ni_4Y3qim4J9qd5P"
-    },
-    {
-      "subject": "Operating Systems",
-      "code": "PCCCS502",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1W_Y9fW1sehqLtE0foP1CAG1K3OxnlD7y/view?usp=sharing",
-      "playlist": "https://youtu.be/bkSWJJZNgf8?si=CM3ViqRYqQSPwB5p"
-    },
-    {
-      "subject": "Object OrientedProgramming",
-      "code": "PCC-CS 503",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1WbPKclHWQnPpZbhYb68zzaxeTPQNhoyz/view?usp=sharing",
-      "playlist": "https://youtu.be/BSVKUk58K6U?si=PHSdyzWI9wQXUrgQ"
-    },
-    {
-      "subject": "Introduction to Industrial Management(Humanities III)",
-      "code": "HSMC-501",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1W_Y9fW1sehqLtE0foP1CAG1K3OxnlD7y/view?usp=sharing",
+      "subject": "Software Engineering (ESC501)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/1/ESC501%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/1/ESC501%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/1/ESC501%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1mcHTCoDO6pL3hHfwUTsyLMEirCveeETm/view?usp=drivesdk",
       "playlist": "url"
     },
     {
-      "subject": "Constitution of India/Essence of Indian Knowledge Tradition",
-      "code": "MC-CS501",
-      "pyqLink": [],
+      "subject": "Compiler Design (PCC-CS501)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/3/PCC-CS501%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/3/PCC-CS501%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/3/PCC-CS501%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1sOqkiuLjpJVkyr_S2OWAR8XxF83--Wp6/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Operating Systems (PCC-CS502)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/4/PCC-CS502%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/2/PCC-%20CS502%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/4/PCC-CS502%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1mcHTCoDO6pL3hHfwUTsyLMEirCveeETm/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Object Oriented Programming (PCC-CS503)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/5/PCC-CS503%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/4/PCC-CS503%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/5/PCC-CS503%2c2022-23.pdf"
+        }
+      ],
+      "organiser": "https://drive.google.com/file/d/1jN1sZiC3RRhPvdUTKlq7oHUV5rF3eSAS/view?usp=drivesdk",
+      "playlist": "url"
+    },
+    {
+      "subject": "Introduction to Industrial Management(Humanities III) (HSMC-501)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/2/HSMC-501%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/6/HSMC501%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/2/HSMC-501%2c2022-23.pdf"
+        }
+      ],
       "organiser": "url",
       "playlist": "url"
     },
     {
-      "subject": "Machine Learning",
-      "code": "MC-CS501",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1l9l_vhstoz7j6XKeX5J9vU_zIRbrrC8Z/view?usp=drivesdk",
-      "playlist": "url"
-    },
-    {
-      "subject": "Introduction to Artificial Intelligence",
-      "code": "HSMC-501",
-      "pyqLink": [],
+      "subject": "Artificial Intelligence (PEC-IT501B)",
+      "pyqLink": [
+        {
+          "2025": "http://117.232.85.73:8080/jspui/bitstream/123456789/710/6/PEC-IT501B%2c%202024-25.pdf"
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/612/7/PEC-IT501B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/550/6/PEC-IT501B%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/14FkGluDM9QRGkPdc7KEhh_WtdMM8X3fD/view?usp=drivesdk",
       "playlist": "url"
     }
