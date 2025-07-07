@@ -347,12 +347,19 @@
       "playlist": "url"
     },
     {
-      "subject": "Computer Networks",
-      "code": "PCC-CS 602",
+      "subject": "Computer Networks (PCC-CS602)",
       "pyqLink": [
         {
-          "2016": "https://drive.google.com/file/d/17mJKM-pjzYq99lopgoSnUmAUEDTBW5mD/view?usp=drive_link",
-          "2015": "https://drive.google.com/file/d/1olp2KUdudOmo2ufT3k8vhLN5_0xSlnb6/view?usp=drive_link"
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/3/PCC-CS601%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/3/PCC-CS601%2c2022-23.pdf"
+        },
+        {
+          "2018": "http://117.232.85.73:8080/jspui/bitstream/123456789/466/3/IT-602%2c%2017-18.pdf"
         }
       ],
       "organiser": "https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
