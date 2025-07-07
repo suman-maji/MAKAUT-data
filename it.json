@@ -420,17 +420,19 @@
       "playlist": "url"
     },
     {
-      "subject": "Image Processing",
-      "code": "PECIT601A/B/C/D",
-      "pyqLink": [],
+      "subject": "Human Resource Development and Oranizational Behavior (OEC-IT601B)",
+      "pyqLink": [
+        {
+          "2025": ""
+        },
+        {
+          "2024": "http://117.232.85.73:8080/jspui/bitstream/123456789/647/2/OEC-IT601B%2c%202023-24.pdf"
+        },
+        {
+          "2023": "http://117.232.85.73:8080/jspui/bitstream/123456789/602/2/OEC-IT601B%2c2022-23.pdf"
+        }
+      ],
       "organiser": "https://drive.google.com/file/d/1tNs8NvcxsOIo2PVmcAKTuB81F2UxQz3t/view?usp=drivesdk",
-      "playlist": "url"
-    },
-    {
-      "subject": "Pattern Recognization",
-      "code": "PECIT602A/B/C/D",
-      "pyqLink": [],
-      "organiser": "https://drive.google.com/file/d/1_WIMPbBLuSAMO6jHb1s6LLboaR6pN12j/view?usp=drivesdk",
       "playlist": "url"
     }
   ],
